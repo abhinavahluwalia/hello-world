@@ -5,3 +5,6 @@ It isnt enough to get me excited.
 So I just tested the branch feature and well..
 Maybe its a little bit more exciting.
 But as you know, it isn't crazy.
+
+Simultaneous editing in master as well.
+Well well...
