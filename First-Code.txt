@@ -8,3 +8,6 @@ But as you know, it isn't crazy.
 
 Now im really trying something crazy.
 Making two branches and doing simultaneuos edits.
+
+Simultaneous editing in master as well.
+Well well...
